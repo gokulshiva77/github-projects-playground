@@ -7,4 +7,4 @@ A repository for implementing innovative codings.
 Clone the repo:
 ```bash
 git clone https://github.com/gokulshiva77/github-projects-playground.git
-cd github-projects-playgroundo
+cd github-projects-playground
